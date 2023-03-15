@@ -1,0 +1,243 @@
+.resultbox {
+    box-sizing: border-box;
+
+position: absolute;
+width: 540px;
+height: 151px;
+left: 450px;
+top: 157px;
+
+background: #FFFFFF;
+border: 4px solid #000000;
+border-radius: 10px;
+}
+
+
+.num1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 449px;
+top: 549px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num4 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 449px;
+top: 439px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num7 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 450px;
+top: 329px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 559px;
+top: 549px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num3 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 669px;
+top: 549px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num5 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 559px;
+top: 439px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num6 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 669px;
+top: 439px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num8 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 560px;
+top: 329px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.num9 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 670px;
+top: 329px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.result {
+    position: fixed;
+width: 89px;
+height: 164px;
+left: 886px;
+top: 20px;
+
+font-family: 'Allerta';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 164px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.plus {
+    box-sizing: border-box;
+
+position: absolute;
+width: 210px;
+height: 100px;
+left: 720px;
+top: 605px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -7px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+transform: rotate(-90deg);
+}
+
+.back {
+    position: absolute;
+width: 594px;
+height: 657px;
+left: 424px;
+top: 126px;
+
+background: #0D3A7D;
+box-shadow: 0px 9px 6px 7px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+
+.zero {
+    box-sizing: border-box;
+
+position: absolute;
+width: 210px;
+height: 100px;
+left: 449px;
+top: 659px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -6px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+
+.dat {
+    box-sizing: border-box;
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 669px;
+top: 659px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+}
+
+.res {
+    box-sizing: border-box;
+
+position: absolute;
+width: 210px;
+height: 100px;
+left: 830px;
+top: 605px;
+font-size: 500%;
+background: #D9D9D9;
+border: 1px solid #000000;
+box-shadow: inset 0px -7px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+transform: rotate(-90deg);
+}
