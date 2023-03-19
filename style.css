@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     
+    
 }
 
 .back {
@@ -25,15 +26,20 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
+    
 
 }
 
 .result {
-    font-family: 'Inter';
+    font-family: cursive;
     font-style: normal;
     font-weight: 800;
     font-size: 40px;
     line-height: 48px;
+    
+    
+
 
 color: #FFFFFF;
 }
@@ -56,17 +62,67 @@ color: #FFFFFF;
 
 .bot {
     display: flex;
-    
     height: 305px;
-    justify-content: space-evenly;
+    
+    
+    
     
 }
 
-.leftbotcont {
-    border: 1px solid #000000;
+.leftcon {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-evenly;
+    width: 66px;
+    
+    
+
 }
 
+.secondleft {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 66px;
+}
+
+
+.rightcont {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 66px;
+}
+
+.secondright {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 66px;
+}
+
+#btndel {
+
+        background-image: url('icon/delicon.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+        
+}
+
+
+#btnac {
+    background-image: url('icon/acbtn.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+}
 
 
 
@@ -88,12 +144,13 @@ color: #FFFFFF;
 
 
 .numbtn {
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 55px;
     background: #1C1C1C;
     box-shadow: 4px 4px 8px #000000;
-    border-radius: 25px;
+    border-radius: 26px;
     color: #FFFFFF;
+    font-size: 22px;
     
 }
 
@@ -104,6 +161,7 @@ background: #FFAC09;
 border-radius: 25px;
 width: 50px;
 height: 110px;
+font-size: 26px;
 
 }
     
